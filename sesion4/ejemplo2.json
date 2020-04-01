@@ -1,0 +1,10 @@
+{
+    "clave1": 12,
+    "clave2": [
+        1,
+        2,
+        3,
+        "HOLA"
+    ],
+    "nueva_clave": 25
+}
